@@ -2,6 +2,9 @@
 
 Plataforma avançada de revisão de arquiteturas cloud com inteligência artificial. Faça upload de diagramas de arquitetura e receba avaliações profissionais detalhadas sobre segurança, escalabilidade, custos e recomendações de melhorias.
 
+## Link com o deploy
+https://www.trustedkmonitor.xyz/
+
 ## Funcionalidades
 
 - **Detecção Automática de Provider**: Identifica AWS, Google Cloud, Azure, ambientes híbridos ou on-premise
